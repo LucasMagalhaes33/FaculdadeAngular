@@ -1,4 +1,14 @@
 /* You can add global styles to this file, and also import other style files */
+/*@use '@angular/material/theming' as mat;
+@include mat.core();
+
+$aphrodite-primary: mat.mat-palette($mat-blue);
+$aphrodite-accent: mat.mat-palette($mat-indigo, A200, A400, 700);
+$aphrodite-warn: mat.mat-palette($mat-red);
+
+$custom-theme: mat.mat-palette($custom-app-primary, $custom-app-secondary,  $custom-app-warn);
+
+@include mat.angular-material-theme($custom-theme);
 
 html, body { height: 100%; }
-body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }*/
